@@ -12,5 +12,8 @@
             "name": "n0tm"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
