@@ -1,0 +1,16 @@
+{
+    "name": "smarthouse/pixoo64api-sdk",
+    "description": "Сlient for interacting with pixo 64 device",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Smarthouse\\Pixoo64apiSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "n0tm"
+        }
+    ],
+    "require": {}
+}
